@@ -3,4 +3,8 @@ steve
 jobs
 niroj
 pratuat
+<<<<<<< HEAD
 append from master
+=======
+new branch
+>>>>>>> newbranch
